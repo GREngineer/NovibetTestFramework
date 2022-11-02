@@ -44,7 +44,7 @@ public class SchedulePage {
 //    the values (home team + dash + away team + start time) in a list. Then make a second list for the matches in the
 //    Live Page and create an if/else loop that compares them; this is however far beyond my coding skill at the moment.
 //    Regarding calls to the website, I would use Jenkins to deploy the code every five minutes, but I wasn't able to
-//    complete that within the timeframe. Thanks for reading a  ͟v͟e͟r͟y͟ junior's work!
+//    complete that within the timeframe. Thanks for taking the time to read a  ͟v͟e͟r͟y͟ junior's work! ( :
 
 
 
